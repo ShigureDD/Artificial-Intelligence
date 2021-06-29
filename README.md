@@ -3,8 +3,11 @@
 Artificial-Intelligence course
 <br>
 a0 - basic python
-</br>
+</br><br>
 a1 - search algorithm
-a2 - q-learning
-a3 - 
-a4 - sample distribution
+</br><br>
+a2 - muti-Agent e.g min-max, reflex
+</br><br>
+a3 - q-learning and refrocement learning
+</br><br>
+a4 - sample distribution</br>

@@ -1,8 +1,6 @@
 # Artificial-Intelligence
 
-<h1>
-Artificial-Intelligence course
-</h1>
+
 <br>
 a0 - basic python
 </br><br>
